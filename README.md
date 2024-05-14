@@ -24,6 +24,8 @@ consider are Accuracy, F1-Socre and Confusion Matrix, goal is
 to get data insights and drug recommendation with accuracy of
 80%.
 
+# Dataset
+
 For our research, drug review dataset is
 selected from UCI Machine Learning Repository.
 The UCI ML Drug Review dataset provides patient
